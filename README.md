@@ -1,2 +1,3 @@
 # springboot-mybatis-annotation
-springboot+mybatis
+springboot+mybatis访问mysql数据
+自定义注解打印sql语句
